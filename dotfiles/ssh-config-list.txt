@@ -1,0 +1,8 @@
+total 40
+drwx------   7 ixu  staff   224 Jan 16 18:19 .
+drwxr-x---+ 37 ixu  staff  1184 Jan 16 19:34 ..
+-rw-------@  1 ixu  staff   131 Jan 16 18:12 config
+-rw-------@  1 ixu  staff   411 Jan 16 18:12 id_ed25519
+-rw-r--r--@  1 ixu  staff   101 Jan 16 18:12 id_ed25519.pub
+-rw-------@  1 ixu  staff   923 Jan 16 18:19 known_hosts
+-rw-r--r--@  1 ixu  staff   187 Jan 16 18:15 known_hosts.old

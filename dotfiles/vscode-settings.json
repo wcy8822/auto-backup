@@ -1,0 +1,11 @@
+{
+    "claudeCode.preferredLocation": "panel",
+    "kilo-code.allowedCommands": [
+        "git log",
+        "git diff",
+        "git show"
+    ],
+    "kilo-code.deniedCommands": [],
+    "gitlens.ai.model": "gitkraken",
+    "gitlens.ai.gitkraken.model": "gemini:gemini-2.0-flash"
+}

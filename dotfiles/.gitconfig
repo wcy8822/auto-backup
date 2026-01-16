@@ -1,0 +1,9 @@
+[init]
+	defaultBranch = main
+[core]
+	autocrlf = input
+[push]
+	autoSetupRemote = true
+[user]
+	name = wcy8822
+	email = wcy8822@users.noreply.github.com
