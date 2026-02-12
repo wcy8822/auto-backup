@@ -7,5 +7,8 @@
     ],
     "kilo-code.deniedCommands": [],
     "gitlens.ai.model": "gitkraken",
-    "gitlens.ai.gitkraken.model": "gemini:gemini-2.0-flash"
+    "gitlens.ai.gitkraken.model": "gemini:gemini-2.0-flash",
+    "git.openRepositoryInParentFolders": "always",
+    "claudeCode.selectedModel": "default",
+    "python.defaultInterpreterPath": "/opt/homebrew/bin/python3"
 }
