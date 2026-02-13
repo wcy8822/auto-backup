@@ -1,6 +1,6 @@
 total 56
 drwx------   9 ixu  staff   288 Jan 18 14:21 .
-drwxr-x---+ 44 ixu  staff  1408 Feb 12 21:50 ..
+drwxr-x---+ 50 ixu  staff  1600 Feb 13 23:52 ..
 -rw-------@  1 ixu  staff   436 Jan 18 14:20 config
 -rw-------@  1 ixu  staff   411 Jan 16 18:12 id_ed25519
 -rw-r--r--@  1 ixu  staff   101 Jan 16 18:12 id_ed25519.pub
