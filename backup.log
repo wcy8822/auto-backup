@@ -21,3 +21,17 @@ and the repository exists.
 📦 备份配置文件...
 📦 备份配置文件...
 ✅ 配置文件备份完成
+warning: in the working copy of 'backup.log', CRLF will be replaced by LF the next time Git touches it
+[main 3762830] auto-backup: 2026-02-14 02:00:01
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+Connection closed by 198.18.1.57 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+✅ 备份完成: 2026-02-14 02:00:01
+
+=== 开始备份: 2026-02-17 02:00:00 ===
+📦 备份配置文件...
+📦 备份配置文件...
+✅ 配置文件备份完成
